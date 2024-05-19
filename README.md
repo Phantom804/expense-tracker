@@ -7,7 +7,7 @@ MERN GraphQL Expense Tracker App! This project is designed to help you manage yo
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/cw5CCgC/expenes-tracker.png)
+![App Screenshot](https://i.ibb.co/rF18Wf3/expenes-tracker-500.png)
 
 
 ## Features
